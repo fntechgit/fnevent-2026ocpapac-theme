@@ -1,13 +1,34 @@
 {
   "items": [
     {
-      "title": "Lobby",
-      "link": "/a/",
-      "display": true,
-      "userRequirement": "LOGGED_IN",
+      "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
-      ]
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "HOME",
+      "link": "/",
+      "display": true
+    },
+    {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "REGISTRATION",
+      "link": "/registration",
+      "display": true
+    },
+    {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "TRAVEL",
+      "link": "/travel",
+      "display": true
     },
     {
       "title": "SCHEDULE",
@@ -28,8 +49,8 @@
       ]
     },
     {
-      "title": "Sponsors ",
-      "link": "/a/sponsors/",
+      "title": "MY ORDERS/TICKETS",
+      "link": "/a/my-tickets",
       "display": true,
       "userRequirement": "LOGGED_IN",
       "pageRestriction": [
@@ -37,31 +58,23 @@
       ]
     },
     {
-      "title": "About the event",
-      "link": "/about-event",
+      "title": "MY PROFILE",
+      "link": "/a/profile",
       "display": true,
-      "userRequirement": "NONE",
+      "userRequirement": "LOGGED_IN",
       "pageRestriction": [
         "ANY"
       ]
     },
     {
-      "title": "Who we are",
-      "link": "/who-we-are",
-      "display": true,
       "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
-      ]
-    },
-    {
-      "title": "Past events",
-      "link": "/past-events",
-      "display": true,
-      "userRequirement": "NONE",
-      "pageRestriction": [
-        "ANY"
-      ]
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "FAQ",
+      "link": "/faq",
+      "display": true
     },
     {
       "title": "CONTACT",
@@ -73,31 +86,14 @@
       ]
     },
     {
-      "title": "Help",
-      "link": "/help",
-      "display": true,
       "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
-      ]
-    },
-    {
-      "title": "MY ORDERS/TICKETS",
-      "link": "/a/my-tickets",
-      "display": true,
-      "userRequirement": "LOGGED_IN",
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
-      "title": "My Profile",
-      "link": "/a/profile",
-      "display": true,
-      "userRequirement": "LOGGED_IN",
-      "pageRestriction": [
-        "ANY"
-      ]
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "OCP SITE",
+      "link": "https://www.opencompute.org/summit/2026-ocp-apac-summit",
+      "display": true
     }
   ]
 }
