@@ -10,7 +10,7 @@
       ]
     },
     {
-      "title": "Schedule",
+      "title": "SCHEDULE",
       "link": "/a/schedule",
       "display": true,
       "userRequirement": "NONE",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "title": "My Schedule",
+      "title": "MY SCHEDULE",
       "link": "/a/my-schedule",
       "display": true,
       "userRequirement": "LOGGED_IN",
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "title": "Contact",
+      "title": "CONTACT",
       "link": "/contact",
       "display": true,
       "userRequirement": "NONE",
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "title": "My Orders/Tickets",
+      "title": "MY ORDERS/TICKETS",
       "link": "/a/my-tickets",
       "display": true,
       "userRequirement": "LOGGED_IN",
