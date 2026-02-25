@@ -5,27 +5,6 @@
       "providerLabel": "Continue with FNid",
       "providerLogo": "logo_fn.svg",
       "providerLogoSize": 27
-    },
-    {
-      "buttonColor": "#0A66C2",
-      "providerLabel": "Sign in with LinkedIn",
-      "providerParam": "linkedin",
-      "providerLogo": "logo_linkedin.svg",
-      "providerLogoSize": 18
-    },
-    {
-      "buttonColor": "#000000",
-      "providerLabel": "Sign in with Apple",
-      "providerParam": "apple",
-      "providerLogoSize": 17,
-      "providerLogo": "logo_apple.svg"
-    },
-    {
-      "buttonColor": "#1877F2",
-      "providerLabel": "Login with Facebook",
-      "providerParam": "facebook",
-      "providerLogo": "logo_facebook.svg",
-      "providerLogoSize": 20
     }
   ],
   "widgets": {
@@ -43,5 +22,22 @@
     "enabled": false,
     "title": "Site under maintenance",
     "subtitle": "Please reload page shortly"
+  },
+  "siteMetadata": {
+    "title": "2026 OCP APAC Summit",
+    "description": "The Open Compute Project (OCP) is bringing together APAC communities for a very special two-day, in-person Summit to explore the many challenges and opportunities facing data center infrastructure, today and tomorrow. The OCP APAC Summit will showcase the latest innovations and technical advancements from around the world, and feature talks from experts who are researching, designing, building and running the next generation of hyperscale data center facilities and infrastructure. The Expo Hall will bring together buyers and sellers from the entire ecosystem and supply chain. ",
+    "image": "ocp-fnv-favicon.png"
+  },
+  "favicon": {
+    "asset": "ocp-fnv-favicon.png"
+  },
+  "siteFont": {
+    "fontFamily": "Franklin Gothic",
+    "regularFont": {
+      "fontFile": "/static/fonts/franklingothic-book.ttf"
+    },
+    "boldFont": {
+      "fontFile": "/static/fonts/franklingothic-medium.ttf"
+    }
   }
 }
