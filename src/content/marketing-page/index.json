@@ -40,7 +40,7 @@
       "display": true,
       "title": "",
       "image": {
-        "src": "ocp-apac-fnv-hlschedule-v1.jpg"
+        "src": "ocp-apac-fnv-hlschedule-v2.jpg"
       }
     },
     "content": {
@@ -56,7 +56,7 @@
         "size": 1,
         "images": [
           {
-            "src": "ocp-apac-26-space1-v1.png",
+            "src": "ocp-apac-26-space1-v2.png",
             "link": "https://www.opencompute.org/summit/2026-ocp-apac-summit"
           }
         ]
@@ -66,7 +66,7 @@
         "size": 2,
         "images": [
           {
-            "src": "ocp-apac-26-space2-v1.png",
+            "src": "ocp-apac-26-space2-v2.png",
             "link": "https://www.opencompute.org/membership/how-to-join"
           }
         ]
@@ -76,7 +76,7 @@
         "size": 2,
         "images": [
           {
-            "src": "ocp-apac-26-space3-v1.png",
+            "src": "ocp-apac-26-space3-v2.png",
             "link": "https://www.opencompute.org/events/past-events/2025-ocp-global-summit"
           }
         ]
