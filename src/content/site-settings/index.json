@@ -34,10 +34,12 @@
   "siteFont": {
     "fontFamily": "Franklin Gothic",
     "regularFont": {
-      "fontFile": "/static/fonts/franklingothic-book.ttf"
+      "fontFile": "/static/fonts/franklingothic-book.ttf",
+      "fontFormat": "ttf"
     },
     "boldFont": {
-      "fontFile": "/static/fonts/franklingothic-medium.ttf"
+      "fontFile": "/static/fonts/franklingothic-medium.ttf",
+      "fontFormat": "ttf"
     }
   }
 }
