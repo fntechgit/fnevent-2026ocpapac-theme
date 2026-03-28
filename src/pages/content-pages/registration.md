@@ -5,13 +5,13 @@ userRequirement: NONE
 ---
 <br/>
 
-### **Registration Options**
+## **Registration Options**
 
 Registration will open at the beginning of April! 
 
 Please find the registration dates and fees below. This is an in-person only event with no virtual component. All accepted speakers will receive a complimentary registration pass. Please direct any questions to secretariat.ocpapac@gmail.com or kate@opencompute.org. 
 
-### **Registration Cost**
+## **Registration Cost**
 
 **Early Bird:** $150 USD (4,950 NTD)
 
@@ -23,19 +23,19 @@ All travel is subject to the legal requirements of both the departure and destin
 
 Registration fees include: Access to all sessions (keynotes and breakout sessions), expo hall, Co-located Workshops, lunch, beverages and a welcome reception.
 
-### **Media and Analyst Registration**
+## **Media and Analyst Registration**
 
 To apply for a media pass, please click here. Press passes are only for professional analysts or members of the media. Once received, someone at OCP will contact you with next steps. Please allow 3 to 5 business days for a response.
 
-### **Cancellation Policy**
+## **Cancellation Policy**
 
 A request to cancel your ticket must be emailed to secretariat.ocpapac@gmail.com. Requests received on or prior to July 1, 2026 will receive a full refund. No refunds will be given after July 1, 2026.
 
-### **Replacement and Transfer Policy**
+## **Replacement and Transfer Policy**
 
 A request to transfer your ticket must be emailed to secretariat.ocpapac@gmail.com. Requests received on or prior to July 1, 2026 will be transferred. No replacement or transfer will be given after July 1, 2026.
 
-### **Visa Compliance & Liability Notice**
+## **Visa Compliance & Liability Notice**
 
 * All international attendees are solely responsible for obtaining the appropriate and legal entry permits or visas required by the Taiwan government prior to travel. 
 * The Summit shall not be held legally or financially liable if an attendee is denied entry into Taiwan for any reason. 
