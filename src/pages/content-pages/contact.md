@@ -7,11 +7,11 @@ userRequirement: NONE
 
 ###### Email OCP for questions regarding:
 
-OCP Membership: [membership@opencompute.org](<>)
+OCP Membership: [membership@opencompute.org](<mailto: membership@opencompute.org>)
 
-OCP Solution Provider Program: [solutionproviders@opencompute.org](<>)
+OCP Solution Provider Program: [solutionproviders@opencompute.org](<mailto: solutionproviders@opencompute.org>)
 
-Event Sponsorship: [sponsor@opencompute.org](<>)
+Event Sponsorship: [sponsor@opencompute.org](<mailto: sponsor@opencompute.org>)
 
 Upcoming Events: [events@opencompute.org](<>)
 
