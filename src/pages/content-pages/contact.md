@@ -21,7 +21,7 @@ Press Inquiries: [press@opencompute.org](<>)
 
 OCP Brand Site: [OCPgear@opencompute.org](<>)
 
-[](<>)OCP APAC Summit Secretariat: [secretariat.ocpapac@gmail.com](<>)
+[](<>)OCP APAC Summit Secretariat: [secretariat.ocpapac@gmail.com](<mailto: secretariat.ocpapac@gmail.com>)
 
 <br/>
 
@@ -31,12 +31,14 @@ OCP Brand Site: [OCPgear@opencompute.org](<>)
 
 Austin, TX 78750
 
+<br/>
+
 ###### Call OCP
 
 (281) 667-4644 
 
 <br/>
 
-**Event Tech Support:** [](<>)[support@fntech.com](<>)
+**Event Tech Support:** [](<>)[support@fntech.com](<mailto: support@fntech.com>)
 
-**Event Registration Issues:** [](<>)[registration@opencompute.org](<>)
+**Event Registration Issues:** [](<>)[registration@opencompute.org](<mailto: registration@opencompute.org>)
