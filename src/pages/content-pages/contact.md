@@ -21,6 +21,8 @@ Press Inquiries: [press@opencompute.org](<>)
 
 OCP Brand Site: [OCPgear@opencompute.org](<>)
 
+[](<>)OCP APAC Summit Secretariat: [secretariat.ocpapac@gmail.com](<>)
+
 <br/>
 
 ###### **OCP Mailing Address**
