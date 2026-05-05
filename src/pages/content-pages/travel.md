@@ -7,9 +7,9 @@ userRequirement: NONE
 
 ## Getting to Taipei City
 
-[Click here](https://drive.google.com/file/d/1NWkJBoO1znZPOd4XA8uiUc82XvBOJRHy/view) for helpful information on traveling to Taipei City.
+<a href="https://drive.google.com/file/d/1NWkJBoO1znZPOd4XA8uiUc82XvBOJRHy/view" target="_blank" rel="noopener noreferrer">Click here</a> for helpful information on traveling to Taipei City.
 
-[Click here](https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/434a2e0bab72b5f0c32b07818c47d4364f645bd3.pdf) to view Visa Information. 
+<a href="https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/434a2e0bab72b5f0c32b07818c47d4364f645bd3.pdf" target="_blank" rel="noopener noreferrer">Click here</a> to view Visa Information. 
 
 ## Visa & Entry Information
 
