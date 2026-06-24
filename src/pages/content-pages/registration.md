@@ -5,9 +5,13 @@ userRequirement: NONE
 ---
 <br/>
 
-## **Registration Options**
+###### **Event:** 2026 OCP APAC Summit
+**Dates:** August 11-12
 
-Registration will open at the beginning of April! 
+###### 
+**Location:** TaiNEX2 - Taipei City, Taiwan
+
+## **Registration Options**
 
 Please find the registration dates and fees below. This is an in-person only event with no virtual component. All accepted speakers will receive a complimentary registration pass. Please direct any questions to secretariat.ocpapac@gmail.com or kate@opencompute.org. 
 
@@ -41,6 +45,5 @@ A request to transfer your ticket must be emailed to secretariat.ocpapac@gmail.c
 * The Summit shall not be held legally or financially liable if an attendee is denied entry into Taiwan for any reason. 
 * Attendees must ensure their activities in Taiwan strictly align with the permissions granted by their specific visa type. 
 * The Summit assumes no responsibility for legal consequences arising from attendees engaging in activities not authorized by their visa. 
-
 
 [Click here ](https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/c9dac3936d98c6524240e99865fef9bfff9532ff.pdf)to view the OCP event Terms and Conditions (PDF)
