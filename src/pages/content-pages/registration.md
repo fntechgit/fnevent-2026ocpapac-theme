@@ -11,25 +11,25 @@ userRequirement: NONE
 ###### 
 **Location:** TaiNEX2 - Taipei City, Taiwan
 
-## **Registration Options**
+<br/>
 
-Please find the registration dates and fees below. This is an in-person only event with no virtual component. All accepted speakers will receive a complimentary registration pass. Please direct any questions to secretariat.ocpapac@gmail.com or kate@opencompute.org. 
+Please find the registration dates and fees below. This is an *in-person only* event with no virtual component. All accepted speakers will receive a complimentary registration pass. Please direct any questions to secretariat.ocpapac@gmail.com or kate@opencompute.org. 
 
 ## **Registration Cost**
 
-**Early Bird:** $150 USD (4,950 NTD)
+**Early Bird:** $150 USD (4,950 NTD) *April 1 - May 31*
 
-**General:** $200 USD (6,600 NTD)
+**General:** $200 USD (6,600 NTD) *June 1 - August 9*
 
-**Onsite:** $250 USD (8,250 NTD)
+**Onsite:** $250 USD (8,250 NTD) *August 10 - 12*
 
-All travel is subject to the legal requirements of both the departure and destination jurisdictions. 
+*All travel is subject to the legal requirements of both the departure and destination jurisdictions.* 
 
-Registration fees include: Access to all sessions (keynotes and breakout sessions), expo hall, Co-located Workshops, lunch, beverages and a welcome reception.
+Registration fees include: Access to all sessions (keynotes and breakout sessions), expo hall, co-located workshops, lunch, beverages and a welcome reception.
 
 ## **Media and Analyst Registration**
 
-To apply for a media pass, please click here. Press passes are only for professional analysts or members of the media. Once received, someone at OCP will contact you with next steps. Please allow 3 to 5 business days for a response.
+To apply for a media pass, please [click here.](https://forms.gle/qSTTWfgp9rmo5Mvc7) Press passes are only for professional analysts or members of the media. Once received, someone at OCP will contact you with next steps. Please allow 3 to 5 business days for a response.
 
 ## **Cancellation Policy**
 
