@@ -6,7 +6,7 @@ userRequirement: NONE
 <br/>
 
 ###### **Event:** 2026 OCP APAC Summit
-**Dates:** August 11-12
+**Dates:** August 11–12
 
 ###### 
 **Location:** TaiNEX2 - Taipei City, Taiwan
